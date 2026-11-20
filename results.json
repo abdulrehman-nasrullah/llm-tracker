@@ -1,0 +1,15 @@
+{
+  "prompt": "What is an API? Answer in 10 words.",
+  "gemini": {
+    "reply": "A bridge allowing different software systems to communicate with each other.",
+    "input_tokens": 13,
+    "output_tokens": 12,
+    "cost_usd": 3.39e-05
+  },
+  "groq": {
+    "reply": "Interface that enables software applications to communicate and share functionalities.",
+    "input_tokens": 82,
+    "output_tokens": 173,
+    "cost_usd": 0.00018505
+  }
+}
